@@ -31,8 +31,8 @@
 
 <h2>Data Visualization: Some examples!</h2>
 <p>
-  <img src="figures/extreme_identification.png" width="400" alt="Identification of Extreme Carbon Fluxes">
-  <img src="figures/VIMP_interactions.png" width="400" alt="Random Forest Variable Importances and Interactions">
+  <img src="figures/BartonSpatialCline.png" width="400" alt="Spatial Cline">
+  <img src="figures/SpatialGenomicSurface.png" width="400" alt="Spatial and Genomic Surface of Allele Frequencies">
 </p>
 
 <h2>Skills</h2>
