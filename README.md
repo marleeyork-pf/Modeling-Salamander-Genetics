@@ -1,6 +1,6 @@
 <!-- Modeling-Salamander-Genetics README (HTML) -->
 
-<h1>Modeling-Salamander-Geneticsl</h1>
+<h1>Modeling-Salamander-Genetics</h1>
 <p><strong>Creating and implementing new mathematical model for gene flow across two species populations</strong></p>
 
 <hr>
