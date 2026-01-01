@@ -1,0 +1,72 @@
+﻿sample,specimen,species,clade,state,county,locality,site,BIO15,dist,lat,long,monticola,cheaha
+RAP0634,RAP0634_monticola_B,monticola,monticola_B,NC,Watauga,"Near Rominger, Rominger Rd.",site1,11.45682144,305.9973775,36.2351144,-81.8372732,0.9999,0.0001
+RAP0641,RAP0641_monticola_B,monticola,monticola_B,NC,McDowell,Singecat Branch off NC80 between Busick and Sunnyvale,site2,10.3577652,251.9109548,35.756414,-82.148232,0.9999,0.0001
+RAP0656,RAP0656_monticola_A,monticola,monticola_A,GA,Lumpkin,"Frogtown Creek, Desoto Falls Campground",site3,12.39375591,54.18752753,34.7080531,-83.9126546,0.945483,0.054517
+RAP0673,RAP0673_monticola_B,monticola,monticola_B,GA,Towns,Tate City Rd. nr Tallulah River,site4,10.61041832,96.69277876,34.958973,-83.553978,0.9999,0.0001
+RAP0679,RAP0679_monticola_A,monticola,monticola_A,GA,Gilmer,"Horse Cove, Cold Mtn.",site6,13.61113167,35.19355033,34.777,-84.33188,0.831848,0.168152
+RAP0686,RAP0686_monticola_B,monticola,monticola_B,GA,Stephens,Walkers Creek,site7,11.6499939,104.3255653,34.6671484,-83.3161259,0.9999,0.0001
+RAP0707,RAP0707_monticola_A,cheaha,monticola_A,AL,Monroe,Forever Wild - Red Hills Complex,site8,21.83389282,-408.63934,31.732458,-87.367445,0.08009,0.91991
+RAP0713,RAP0713_monticola_B,monticola,monticola_B,NC,Ashe,"Pond Mtn., Rock Fence Rd. nr. Listening Rock",site9,10.53505611,342.0115504,36.5555108,-81.6467495,0.961251,0.038749
+RAP0719,RAP0719_monticola_B,monticola,monticola_B,NC,Ashe,"Three Top Mtn., E of Creston",site10,10.5038805,336.0921979,36.423777,-81.594393,0.993052,0.006948
+RAP0731,RAP0731_monticola_B,monticola,monticola_B,NC,Watauga,"United Trail, Boone",site11,10.57327366,317.3287692,36.2236491,-81.6661758,0.973988,0.026012
+RAP0764,RAP0764_monticola_B,monticola,monticola_B,NC,Mitchell,"Pigeonroost Cr., btwn. Pigeonroost and Upper Pigeonroost",site12,12.61366463,264.7450942,36.082145,-82.2792714,0.9999,0.0001
+RAP0771,RAP0771_monticola_B,monticola,monticola_B,NC,Mitchell,"Spring Creek near Rt. 226, Pisgah Game Land",site13,11.58621597,271.4212862,36.136275,-82.2394658,0.9999,0.0001
+RAP0781,RAP0781_monticola_B,monticola,monticola_B,NC,Burke,County Line Rd. nr. Linville Falls,site14,10.89478302,279.9626402,35.9488909,-81.9334562,0.9999,0.0001
+RAP0797,RAP0797_monticola_B,monticola,monticola_B,NC,McDowell,Long Branch nr. Point Lookout,site15,10.33642292,235.784995,35.6310592,-82.2609134,0.9999,0.0001
+RAP0807,RAP0807_monticola_B,monticola,monticola_B,NC,Buncombe,"Mineral Creek, Stoney Fork Rd.",site16,10.40585899,230.8005602,35.7232987,-82.4052189,0.98644,0.01356
+RAP0826,RAP0826_monticola_B,monticola,monticola_B,NC,Haywood,Cold Springs Rd. nr. Harmon's Den,site17,13.00969315,193.105079,35.7552961,-82.9973662,0.958145,0.041855
+RAP0837,RAP0837_monticola_B,monticola,monticola_B,NC,Haywood,Rt. 288 nr. Pigeon River,site18,13.86500835,189.2451495,35.7302948,-83.0271226,0.924212,0.075788
+RAP0845,RAP0845_monticola_B,monticola,monticola_B,NC,Haywood,Cozy Creek Cabin,site19,10.17125702,172.7328938,35.5552805,-83.0693542,0.976929,0.023071
+RAP0864,RAP0864_monticola_B,monticola,monticola_B,NC,Jackson,West Fork Dick's Creek,site21,10.37183094,151.9944976,35.4374004,-83.248318,0.9999,0.0001
+RAP0874,RAP0874_monticola_B,monticola,monticola_B,NC,Jackson,FR 4663 W of 215,site22,8.564810753,163.7177779,35.2761615,-82.9269025,0.9999,0.0001
+RAP0877,RAP0877_monticola_B,monticola,monticola_B,NC,Jackson,"SR 215, N Fork French Broad River",site23,8.547324181,162.9350795,35.2533044,-82.9195227,0.9999,0.0001
+RAP0881,RAP0881_monticola_B,monticola,monticola_B,NC,Transylvania,US 276 nr. Cradle of Forestry,site24,8.461503029,177.9048295,35.3397588,-82.7911596,0.9999,0.0001
+RAP0927,RAP0927_monticola_B,monticola,monticola_B,NC,Swain,Road to Big Laurel,site25,10.37517357,139.3197257,35.3549861,-83.3452396,0.9999,0.0001
+RAP0934,RAP0934_monticola_B,monticola,monticola_B,NC,Transylvania,White Oak Bridge,site26,7.333994865,166.5744818,35.0828156,-82.7655505,0.988034,0.011966
+RAP0936,RAP0936_monticola_B,monticola,monticola_B,NC,Polk,Green River Game Lands,site27,9.566053391,214.2703186,35.2829088,-82.3001916,0.9999,0.0001
+RAP0947,RAP0947_monticola_B,monticola,monticola_B,NC,Wilkes,Bell Branch,site28,10.65559101,364.0126528,36.3718891,-81.1571914,0.913168,0.086832
+RAP0967,RAP0967_monticola_B,monticola,monticola_B,NC,Transylvania,Courthouse Creek Campground,site29,8.429158211,166.4447777,35.2768641,-82.8919228,0.9999,0.0001
+RAP0993,RAP0993_monticola_B,monticola,monticola_B,NC,Haywood,Burnette Cove Creek,site30,9.056698799,180.2203131,35.4285805,-82.8335707,0.950059,0.049941
+RAP1016,RAP1016_monticola_A,cheaha,monticola_A,AL,Clarke,Bolen Town Rd.,site31,20.59877777,-459.2894751,31.5850504,-87.965,0.100185,0.899815
+RAP1030,RAP1030_monticola_A,cheaha,monticola_A,AL,Monroe,"Haines Island, Davis Ferry",site32,21.98383141,-415.7656018,31.7207136,-87.4651814,0.038729,0.961271
+RAP1050,RAP1050_monticola_B,monticola,monticola_B,TN,Washington,Sinking Creek Springhouse,site33,13.85677528,272.2368966,36.251408,-82.364312,0.911043,0.088957
+RAP1068,RAP1068_monticola_A,monticola,monticola_A,TN,Polk,Goforth Creek,site34,14.28753281,68.85070348,35.08703,-84.51431,0.772085,0.227915
+RAP1071,RAP1071_monticola_C,cheaha,monticola_C,AL,Jefferson,"Readers Gap/Shannon Rd., Bessemer",site35,19.31132889,-259.9251987,33.3808281,-86.9218155,0.079549,0.920451
+RAP1075,RAP1075_monticola_C,cheaha,monticola_C,AL,Cleburne,Maxwell Gap,site36,18.75440216,-115.3954533,33.929821,-85.500837,0.15621,0.84379
+RAP1077,RAP1077_monticola_C,cheaha,monticola_C,AL,Cleburne,Chulafinnee Creek,site37,19.65519524,-159.0463549,33.526608,-85.728314,0.244036,0.755964
+RAP1079,RAP1079_monticola_C,cheaha,monticola_C,AL,Clay,Hollins WMA,site38,19.87548447,-207.1056661,33.205824,-86.07947,0.167689,0.832311
+RAP1081,RAP1081_monticola_C,cheaha,monticola_C,GA,Paulding,Paulding Forest WMA,site39,17.52966118,-79.60649831,33.889077,-84.938126,0.001436,0.998564
+RAP1083,RAP1083_monticola_C,cheaha,monticola_A,GA,Bartow,Pine Log WMA,site40,17.51216698,-33.58106907,34.24335,-84.67197,0.20312,0.79688
+RAP1087,RAP1087_monticola_C,cheaha,monticola_A,GA,Floyd,John's Mountain WMA,site41,16.55677414,-62.72229143,34.56487,-85.1031,0.280301,0.719699
+RAP1092,RAP1092_monticola_B,monticola,monticola_B,NC,Graham,Panther Creek,site42,11.06712151,103.7008893,35.253854,-83.809327,0.9999,0.0001
+RAP1102,RAP1102_monticola_B,monticola,monticola_B,TN,Washington,Horse Cove,site43,13.85677528,272.2182617,36.251856,-82.365181,0.9999,0.0001
+RAP1128,RAP1128_monticola_C,cheaha,monticola_C,AL,Tallapoosa,Yates Lake,site44,22.68589401,-248.3000241,32.589228,-85.88501,0.0001,0.9999
+RAP1134,RAP1134_monticola_A,cheaha,monticola_A,AL,Monroe,Red Hills Complex (Forever Wild),site45,21.83389282,-408.6821596,31.73183,-87.367294,0.0001,0.9999
+RAP1136,RAP1136_monticola_A,cheaha,monticola_A,AL,Clarke,Limestone Creek (Fred T. Stimpson SOA),site46,19.29232788,-466.7567811,31.398528,-87.850667,0.0001,0.9999
+RAP1139,RAP1139_monticola_C,cheaha,monticola_C,AL,Shelby,"Oak Mountain State Park, Peavine Trail",site47,19.58078194,-249.6904919,33.323082,-86.755638,0.085719,0.914281
+RAP1141,RAP1141_monticola_A,cheaha,monticola_A,AL,Autauga,Ivy Creek (RE Bob Woodruff Park),site48,21.35491943,-317.4287124,32.398187,-86.790165,0.0001,0.9999
+RAP1143,RAP1143_monticola_C,cheaha,monticola_C,AL,Coosa,Coosa WMA (Pennymotley Creek),site49,21.15657997,-256.7006737,32.83761,-86.39565,0.0001,0.9999
+RAP1145,RAP1145_monticola_C,cheaha,monticola_C,AL,Jefferson,Ruffner Mountain,site50,18.32604027,-231.5362162,33.565216,-86.691359,0.055774,0.944226
+RAP1150,RAP1150_monticola_C,cheaha,monticola_C,AL,Cleburne,Jackson Creek,site51,19.95749092,-152.5800716,33.609398,-85.720671,0.193443,0.806557
+RAP1152,RAP1152_monticola_C,cheaha,monticola_C,AL,Randolph,Wehadkee Creek tributary,site52,20.55221558,-158.9870144,33.250206,-85.335513,0.0001,0.9999
+RAP1153,RAP1153_monticola_C,cheaha,monticola_C,AL,Cleburne,Pinhoti Trail,site53,19.38251877,-144.1796576,33.645579,-85.638936,0.125097,0.874903
+RAP1155,RAP1155_monticola_C,cheaha,monticola_C,AL,Cleburne,Skyway Motorway,site54,19.04526138,-137.797725,33.69696,-85.60015,0.27772,0.72228
+RAP1175,RAP1175_monticola_B,monticola,monticola_B,VA,Bath,Birch Run,site55,10.87057114,583.861015,38.149008,-79.768881,0.971809,0.028191
+RAP1181,RAP1181_monticola_B,monticola,monticola_B,WV,Wyoming,Lefthand Fork Bearhole Fork,site56,13.15592194,435.2009067,37.598044,-81.506314,0.961378,0.038622
+RAP1185,RAP1185_monticola_B,monticola,monticola_B,WV,McDowell,Larken Branch Slaunch Fork,site57,12.01502323,392.9942287,37.371667,-81.923333,0.986271,0.013729
+RAP1191,RAP1191_monticola_B,monticola,monticola_B,WV,McDowell,Millseat Branch,site58,13.73470116,416.8989898,37.322205,-81.414562,0.989248,0.010752
+RAP1198,RAP1198_monticola_B,monticola,monticola_B,WV,Summers,Crooked Run tributary,site59,15.15910625,462.3332903,37.473043,-80.866447,0.9999,0.0001
+RAP1199,RAP1199_monticola_B,monticola,monticola_B,WV,Monroe,South Fork Potts Creek trib. (main),site60,12.18484116,486.0416706,37.455148,-80.476427,0.9999,0.0001
+RAP1203,RAP1203_monticola_B,monticola,monticola_B,NC,McDowell,Curtis Creek,site61,10.19129372,243.4278104,35.683936,-82.202089,0.9999,0.0001
+RAP1258,RAP1258_monticola_B,monticola,monticola_B,NC,Graham,Beach Creek,site63,13.75250053,114.0855884,35.420774,-83.950274,0.9999,0.0001
+RAP1277,RAP1277_monticola_B,monticola,monticola_B,NC,Macon,Gibby Branch,site64,11.27964211,102.2993032,35.175288,-83.707071,0.9999,0.0001
+RAP1283,RAP1283_monticola_B,monticola,monticola_B,NC,Macon,Wayah Bald,site65,9.902853966,109.3259717,35.169575,-83.585778,0.994272,0.005728
+RAP1298,RAP1298_monticola_B,monticola,monticola_A,GA,Union,Coopers Creek,site66,12.56343365,49.28338207,34.75275,-84.01403,0.931946,0.068054
+RAP1326,RAP1326_monticola_B,monticola,monticola_A,GA,Lumpkin,Pruitt Creek,site67,13.13746262,48.51553433,34.64158,-83.94225,0.925519,0.074481
+RAP1334,RAP1334_monticola_B,monticola,monticola_A,GA,Dawson,Dawson Forest,site68,15.33618259,20.61041294,34.425533,-84.210871,0.905053,0.094947
+RAP1361,RAP1361_monticola_C,cheaha,monticola_C,GA,Paulding,Raccoon Creek,site69,17.36861992,-77.39472482,33.935229,-84.970223,0.002245,0.997755
+RAP1380,RAP1380_monticola_B,monticola,monticola_A,GA,Gilmer,Bear Creek tributary,site70,14.08319092,39.6386168,34.810494,-84.560547,0.638055,0.361945
+RAP1383,RAP1383_monticola_B,monticola,monticola_A,GA,Murray,Bearpen Branch,site71,13.91254139,40.63006986,34.768974,-84.685241,0.518962,0.481038
+RAP1427,RAP1427_monticola_B,monticola,monticola_B,VA,Smyth,Dry Branch,site73,10.79773712,354.6026108,36.700835,-81.620953,0.899271,0.100729
+RAP1440,RAP1440_monticola_B,monticola,monticola_B,VA,Washington,Casey Branch,site74,12.45665646,343.711322,36.835937,-81.972226,0.981196,0.018804
+RAP1451,RAP1451_monticola_B,monticola,monticola_B,VA,Washington,Tumbling Creek,site75,12.08040047,358.9560122,36.925,-81.839,0.9999,0.0001
