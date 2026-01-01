@@ -1,7 +1,7 @@
 <!-- New-HybridZone-Model README (HTML) -->
 
 <h1>New-HybridZone-Model</h1>
-<p><strong>Creating and implementing new mathematical model for gene flow across two species</strong></p>
+<p><strong>Creating and implementing new mathematical model for gene flow across two species populations</strong></p>
 
 <hr>
 <h2>Disclaimer</h2>
