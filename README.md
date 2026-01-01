@@ -22,9 +22,9 @@
 
 <h2>Highlights</h2>
 <ul>
-  <li><strong>Mathematical Modeling</strong>: Developed a new </strong>joint spatial-genomic cline</strong> model to describe gene flow across
+  <li><strong>Mathematical Modeling</strong>: Developed a new <strong>joint spatial-genomic cline</strong> model to describe gene flow across
                                               hybrid zones</li>
-  <li><strong>Machine Learning/Optimization</strong>: Implemented </strong>gradient descent optimization<strong> to fit a biologically informed </strong>logistic model<strong></li>
+  <li><strong>Machine Learning/Optimization</strong>: Implemented <strong>gradient descent optimization</strong> to fit a biologically informed <strong>logistic model</strong></li>
   <li><strong>Computational Skills</strong>: Implemented custom likelihood functions and optimizations, visualized clines</li>
   <li><strong>Creative Statistical Thinking</strong>: Applied logistic regression in a non-traditional, biologically motivated context</li>
 </ul>
